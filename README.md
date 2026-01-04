@@ -108,6 +108,10 @@ Review SQL queries for data analysis
 
 Explore Power BI dashboards for insights
 
+📎 Acknowledgment
+
+Developed as part of Winter Consulting 2025.
+
 Refer to the presentation for business recommendations
 
 👤 Author
